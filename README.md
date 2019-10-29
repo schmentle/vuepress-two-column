@@ -1,6 +1,7 @@
 # Vuepress Two Column
 
 This is a two column layout of Vuepress. It has the default theme imported and new components added for the two column layout.
+
 ![Screenshot](screenshot-1.png)
 
 ## Installation
