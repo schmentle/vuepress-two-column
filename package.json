@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.1.1",
+    "vuepress": "^1.0.3"
+  }
+}
