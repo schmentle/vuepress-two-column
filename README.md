@@ -9,7 +9,7 @@ Make sure you have Vuepress installed. [Find instructions here.](https://vuepres
 Clone this repo and run `vuepress dev`.
 
 ```bash
-$ git clone 
+$ git clone https://github.com/msbodetti/vuepress-two-column.git
 $ cd vuepress-two-column
 $ vuepress dev
 ```
