@@ -67,3 +67,7 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 </Example>
 
 </Block>
+
+## Screenshot
+
+![Screenshot](screenshot-1.png)
