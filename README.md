@@ -13,8 +13,8 @@ Clone this repo and run `vuepress dev`.
 ```bash
 $ git clone https://github.com/msbodetti/vuepress-two-column.git
 $ cd vuepress-two-column
-vuepress-two-column $ npm install
-vuepress-two-column $ vuepress dev
+$ npm install
+$ vuepress dev
 ```
 
 ## Usage
